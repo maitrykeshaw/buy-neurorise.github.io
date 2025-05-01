@@ -1,1 +1,1 @@
-# https://get-neurorise.vercel.app
+# https://get-neurorise.vercel.app/
