@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Neurorise™ Hearing Support Formula | US Official Website",
+  "short_name":"Neurorise™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"NeuroRise is a natural hearing support supplement designed to promote and maintain healthy hearing.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
